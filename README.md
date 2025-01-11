@@ -205,6 +205,13 @@ Here is a sample `debug.json` content:
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/scherenhaenden">
+                    <img src="https://avatars.githubusercontent.com/u/14371433?v=4" width="100;" alt="scherenhaenden"/>
+                    <br />
+                    <sub><b>scherenhaenden</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/guibranco">
                     <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
                     <br />
